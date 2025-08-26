@@ -9,6 +9,9 @@ This project was developed during my internship at **Unified Mentor** with the a
 - 💾 Save tasks using **local storage** (persistence across sessions)  
 - 📱 Fully responsive design (works on desktop, tablet, and mobile)  
 ---
+## screenshot
+![result.png](result.png)
+---
 ## 🛠️ Technologies Used  
 
 - **HTML5** – For structuring the application  
