@@ -1,0 +1,52 @@
+ body {
+      background-color: pink;
+      font-family: Arial, sans-serif;
+    }
+
+    .todo-app {
+      width: 300px;
+      margin: 30px auto;
+      padding: 15px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px gray;
+    }
+
+    .todo-app h2 {
+      text-align: center;
+    }
+
+    .todo-list {
+      max-height: 250px;
+      overflow-y: auto;
+      margin-bottom: 10px;
+    }
+
+    .todo-item {
+      background: lightblue;
+      padding: 5px 10px;
+      margin: 5px 0;
+      display: flex;
+      justify-content: space-between;
+      border-radius: 5px;
+    }
+
+    .todo-input {
+      display: flex;
+      gap: 10px;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      padding: 5px;
+    }
+
+    button {
+      padding: 5px 10px;
+    }
+
+    .delete-btn {
+      cursor: pointer;
+      color: red;
+      font-weight: bold;
+    }
