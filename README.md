@@ -2,9 +2,12 @@
 A simple and responsive **To-Do List App** built using **HTML, CSS, and JavaScript**.  
 This project was developed during my internship at **Unified Mentor** with the aim of improving my frontend development skills and building a practical productivity tool.
 ---
-##🚀Feactures
+## 🚀Feactures
  ➕ Add new tasks  
 - ✅ Mark tasks as complete  
+❌ Delete tasks  
+- 💾 Save tasks using **local storage** (persistence across sessions)  
+- 📱 Fully responsive design (works on desktop, tablet, and mobile)  
 ---
 ## 🛠️ Technologies Used  
 
